@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "744103055974",
+    "project_id": "profiles-9ef35",
+    "storage_bucket": "profiles-9ef35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744103055974:android:79621e8ef14707874053a7",
+        "android_client_info": {
+          "package_name": "com.yogpanjarale.profiles"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744103055974-mi6vnmqlneumspsn2h1rbebm55ulkg2q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJmf3jiyANrvFMitP1-oIpJZ9YjvThntc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "744103055974-mi6vnmqlneumspsn2h1rbebm55ulkg2q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "744103055974-315r66he47a3lb0kicsqhf7f14jgr59n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.yogpanjarale.profiles"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
